@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+scikit-learn
+pillow
+rapidocr-onnxruntime
+ultralytics
+opencv-python-headless
